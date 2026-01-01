@@ -1,0 +1,2 @@
+pymongo
+yfinance<1.0.0
